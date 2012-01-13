@@ -1,0 +1,32 @@
+Architectures: i386
+Codename: linex2011
+Components: main contrib non-free
+Date: Tue, 20 Dec 2011 19:45:25 UTC
+Description: Repositorio oficial de LinEx2011
+Label: LinEx2011
+Origin: Centro de Escelencia del Software Libre Jose de Espronceda
+Suite: stable
+MD5Sum:
+ d41d8cd98f00b204e9800998ecf8427e                0 Release
+ b2f24bca3c9caf4add11a34d250101a7            10365 contrib/binary-i386/Packages
+ ed0219fbbe068c66e20f9a0bcc6e26d8             2675 contrib/binary-i386/Packages.gz
+ b6f58db7e256b5653c6fd572c73c2e42           132507 main/binary-i386/Packages
+ 82057d1206a34ffff5649dff72682353            28766 main/binary-i386/Packages.gz
+ a45ad87240ff8b129a5f7039e6adcc93            35904 non-free/binary-i386/Packages
+ 693f2ccf725dc66d693dc027f726cd81             7171 non-free/binary-i386/Packages.gz
+SHA1:
+ da39a3ee5e6b4b0d3255bfef95601890afd80709                0 Release
+ 2449ffc732f1d8a4c674ca0a40105987f82fe3d5            10365 contrib/binary-i386/Packages
+ b19f87bf62136142a6659d1ad1db2a57116c9ef0             2675 contrib/binary-i386/Packages.gz
+ e8f10cc6754f74a102d069cd5a53679b1b116929           132507 main/binary-i386/Packages
+ cc5f5de476e1f95140be108525efce6d0855bebc            28766 main/binary-i386/Packages.gz
+ 7cead5d6e75238dc18c4a236c1264f8eba9cd807            35904 non-free/binary-i386/Packages
+ 9e7844d959052cc7519c7888786eee12c0acb49b             7171 non-free/binary-i386/Packages.gz
+SHA256:
+ e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855                0 Release
+ b947f4600adf3b86b2656355b0e1b19205fe20fc13f2856e13347ba519f65509            10365 contrib/binary-i386/Packages
+ 8917d036e220dbb2310906467b09c0d8096525b6d4fd7e9d648442046e4f7c02             2675 contrib/binary-i386/Packages.gz
+ 382279ac914f69580536abc8312e2c98bc02011665eed8a4b28f635a9ea421e1           132507 main/binary-i386/Packages
+ 7f2346e90ac19eddf3ec2fd64ca7fe547de3b0b9879d23fa21abbbc9038c30bb            28766 main/binary-i386/Packages.gz
+ 1d8e5e36065c9deee46749a5b6571011a5930f14b9f762fe9a5cb5c3bb76f727            35904 non-free/binary-i386/Packages
+ f58bcb428d8dbf8f0fbd17c4d420e875023ba84273bb4fe5ce765e5f26877db6             7171 non-free/binary-i386/Packages.gz
